@@ -1,0 +1,6 @@
+/* src/components/Input/Input.module.css */
+.input {
+  @apply w-full p-3.5 rounded-lg bg-white/20 text-white placeholder:text-white/70 
+           focus:outline-none focus:bg-white/30 transition-colors text-base;
+  border-radius: 50px;
+}

@@ -1,0 +1,10 @@
+/* src/components/Button/Button.module.css */
+.button {
+  @apply p-3.5 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium text-base;
+  border-radius: 50px;
+  background-color: #5175ff;
+}
+
+.fullWidth {
+  @apply w-full;
+}
